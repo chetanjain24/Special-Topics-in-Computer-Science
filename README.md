@@ -58,12 +58,6 @@ The lab includes a proposed algorithm specifically designed for community detect
 - Scikit-learn
 - Matplotlib/Seaborn for visualization
 
-## How to Run
-1. Clone this repository
-2. Install required dependencies
-3. Open any of the Jupyter notebooks
-4. Run cells sequentially to execute the experiments
-
 ## Results and Evaluation
 Each notebook includes evaluation metrics and visualizations showing:
 - Community structure quality
@@ -74,10 +68,6 @@ Each notebook includes evaluation metrics and visualizations showing:
 ## Conclusion
 This lab provides comprehensive exploration of community detection in multi-attributed networks using various modern techniques including evolutionary algorithms, continuous encoding, and novel algorithmic approaches. Through practical implementation and evaluation, students gain deep insights into network analysis and graph-based machine learning.
 
-## References
-- Newman, M. E. J. (2006). Modularity and community structure in networks. Proceedings of the National Academy of Sciences, 103(23), 8577-8582.
-- Kasturirangan, S., et al. (2019). Community Detection Algorithms: A Survey.
-- Jain, P., et al. (2021). Recent advances in community detection for attributed networks.
 
 ## Date of Update
 Last updated on 2026-03-17
